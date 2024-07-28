@@ -10,9 +10,13 @@
 .journal_entry {
     background-color: azure;
     border-color: black;
-    margin: 10px 0px ;
+    margin: 0px ;
 }
 
 html {
     background-image: url(kitty_bg.jpg);
+}
+
+bold {
+    font-size: 20px;
 }
