@@ -6,3 +6,13 @@
     font-weight: bold;
     font-size: larger;
 }
+
+.journal_entry {
+    background-color: azure;
+    border-color: black;
+    margin: 10px 0px ;
+}
+
+html {
+    background-image: url(kitty_bg.jpg);
+}
