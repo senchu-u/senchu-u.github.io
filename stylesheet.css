@@ -2,6 +2,7 @@
 
 /*linked through <link> element... um find out why its href again hehe*/
 
+/* explore how to use flexbox!!!!!! */
 .dates_class {
     font-weight: bold;
     font-size: larger;
@@ -13,8 +14,12 @@
     margin: 0px ;
 }
 
-html {
+body {
     background-image: url(kitty_bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 bold {
