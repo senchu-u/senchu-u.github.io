@@ -1,5 +1,5 @@
 document.documentElement.clientWidth;
 
-var skibidi = "i love you";
+skibidi = "i love you";
 
-alert(skibdi)
+alert(skibdi);
